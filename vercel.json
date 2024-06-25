@@ -1,5 +1,5 @@
 {
-  "redirects": [{"source": "/realestateandmurder.com",       "destination": "/realestateandmurderpodcast.com",       "permanent": true     }
+  "redirects": [{"source": "/realestateandmurder.com",       "destination": "/realestateandmurderpodcast.com",       "permanent": true     },{"source": "/https:realestateandmurder.com",       "destination": "/https:www.realestateandmurderpodcast.com",       "permanent": true     }
 ],
   "rewrites": [
     {
